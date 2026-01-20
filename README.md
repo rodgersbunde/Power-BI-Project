@@ -34,18 +34,17 @@ The columns are detailed below:
 ## Key Insights
 1. Strong Overall Performance with Healthy Profitability
 
-Total Sales reached $1M with a 30% profit margin, indicating efficient cost management alongside revenue growth.
+- Total Sales reached $1M with a 30% profit margin, indicating efficient cost management alongside revenue growth.
 
-Year-over-Year (YoY) Sales grew by 27%, showing strong business momentum and successful sales strategies.
+- Year-over-Year (YoY) Sales grew by 27%, showing strong business momentum and successful sales strategies.
 
-Action:
-✔ Maintain current pricing and cost controls while exploring selective price optimization in high-margin categories.
+Action: Maintain current pricing and cost controls while exploring selective price optimization in high-margin categories.
 
 2. Office Supplies Is the Revenue & Profit Engine
 
-Office Supplies leads all categories with approximately $0.66M in sales and the highest profit contribution ($0.12M).
+- Office Supplies leads all categories with approximately $0.66M in sales and the highest profit contribution ($0.12M).
 
-Furniture and Technology contribute less and show comparatively lower profit efficiency.
+- Furniture and Technology contribute less and show comparatively lower profit efficiency.
 
 Action:
 ✔ Prioritize inventory availability, promotions, and upselling within Office Supplies.
@@ -53,9 +52,9 @@ Action:
 
 3. Regional Sales Are Well Balanced, with South Leading
 
-The South region leads YTD sales (27.7%), followed closely by West and Central regions.
+- The South region leads YTD sales (27.7%), followed closely by West and Central regions.
 
-No single region dominates excessively, indicating diversified geographic risk.
+- No single region dominates excessively, indicating diversified geographic risk.
 
 Action:
 ✔ Replicate South region sales strategies in East and Central regions.
