@@ -12,7 +12,7 @@ GlobalMart is a fictional multinational retail company operating across multiple
 
 
 ## Data Understanding 
-The data set provided was an Excel workbook which contained 12 columns and 1011 rows.  
+The data set provided contained 12 columns and 1011 rows.  
 The columns are detailed below: 
 
 - Order ID: Unique iden fier for each order 
@@ -33,7 +33,7 @@ The columns are detailed below:
 
 ## Key Insights
 
-1. Strong Overall Performance with Healthy Profitability
+#### 1. Strong Overall Performance with Healthy Profitability
 
 - Total Sales reached $1M with a 30% profit margin, indicating efficient cost management alongside revenue growth.
 
@@ -43,7 +43,7 @@ The columns are detailed below:
 
 ✔ Maintain current pricing and cost controls while exploring selective price optimization in high-margin categories.
 
-2. Office Supplies Is the Revenue & Profit Engine
+#### 2. Office Supplies Is the Revenue & Profit Engine
 
 - Office Supplies leads all categories with approximately $0.66M in sales and the highest profit contribution ($0.12M).
 
@@ -55,7 +55,7 @@ The columns are detailed below:
 
 ✔ Review pricing and supplier costs in Furniture and Technology to improve margins.
 
-3. Regional Sales Are Well Balanced, with South Leading
+#### 3. Regional Sales Are Well Balanced, with South Leading
 
 - The South region leads YTD sales (27.7%), followed closely by West and Central regions.
 
